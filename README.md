@@ -25,5 +25,3 @@ This project fetches emails from a Gmail account, processes them using **DLT**, 
 - The **final 55 emails** were used in the **Gmail Activity Analytics Dashboard** to render and display charts and tables
 
 
-## Project Structure
-
